@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm a **Materials Scientist** passionate about combining **machine learning** with **materials discovery** and **molecular design**.
+
+🎓 I'm currently pursuing an **MSc in Materials Science & Engineering** at **TU Delft**.  
+🧠 My work focuses on applying **machine learning** and **generative AI** in the materials domain, including:
+
+- 🔬 Predicting materials properties from structure & composition
+- 🧪 **Molecular generation** using **diffusion models**
+- 🧠 Exploring **deep learning** in computational materials science
+
+
 <!--
 **pwiatrzyk/pwiatrzyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
